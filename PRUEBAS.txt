@@ -1,0 +1,11 @@
+Verificación de entrega:
+- Python: py_compile / compileall: correcto.
+- Motor: 10 tests unitarios aprobados.
+- Casos probados: avances por momento, noticias, compra digital, inventario/efectivo de bots,
+  ofertas reservadas, una indexada por empresa, ticket físico con demora y 2.5%,
+  límite 500 acciones, expiración tras seis momentos, ranking oculto hasta cierre,
+  semilla reproducible, escrituras simultáneas SQLite y empresa liquidada a precio cero.
+- HTML personal: sintaxis de JavaScript verificada con node --check.
+- PDF: páginas renderizadas e inspeccionadas.
+- No se ha desplegado ni validado la interfaz en Streamlit Cloud/Supabase: faltan
+  claves y cuentas de publicación del equipo. No hay conexión con bolsa oficial.
